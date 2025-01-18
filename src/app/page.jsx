@@ -7,7 +7,6 @@ import Services from "../components/Services";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 import TestimonialSection from "../components/TestimonialSection";
-import TestimonialSection from "../components/TestimonialSection";
 import React from 'react';
 
 
