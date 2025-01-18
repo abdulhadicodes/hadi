@@ -44,7 +44,7 @@ function Intro() {
             </p>
             
             <motion.a
-              href="#contact"
+              href="/contact"
               className="inline-flex items-center bg-green-600 rounded-full px-6 py-3 text-[#00ff66] bg-transparent border-2 border-[#00ff66]
           text-lg font-medium transition-all duration-300
           hover:bg-[#00ff66] hover:text-black hover:shadow-[0_0_20px_rgba(0,255,102,0.4)]
