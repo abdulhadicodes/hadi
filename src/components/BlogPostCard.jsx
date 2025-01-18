@@ -6,7 +6,7 @@ import { motion } from 'framer-motion';
 const BlogPostCard = ({ title, excerpt, date, author, imageUrl, slug }) => {
   return (
     <motion.div 
-      className="bg-[#04140b] rounded-lg overflow-hidden shadow-lg"
+      className="bg-[#04140b] rounded-sm overflow-hidden shadow-lg"
       whileHover={{ scale: 1.03 }}
       transition={{ duration: 0.2 }}
     >
