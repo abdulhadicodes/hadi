@@ -21,15 +21,15 @@ body {
 }
 
 
-/* 
+
 div:where(.swal2-container) button:where(.swal2-styled):where(.swal2-confirm){
   background-color:#0a2816;
-} */
+}
 
 html {
   scroll-behavior: smooth;
 }
-/* 
+
 Custom scrollbar for webkit browsers
 ::-webkit-scrollbar {
   width: 10px;
@@ -46,4 +46,4 @@ Custom scrollbar for webkit browsers
 
 ::-webkit-scrollbar-thumb:hover {
   background: #00CC52;
-} */
+} 
