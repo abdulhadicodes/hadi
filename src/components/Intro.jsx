@@ -29,18 +29,14 @@ function Intro() {
             className="space-y-6 pl-5"
           >
             <span className="inline-block px-3 py-1 text-xs font-semibold tracking-wider text-green-600 uppercase bg-green-600/10 rounded-full">
-              Crafting digital solutions
+            Solutions for Success
+
             </span>
             <h1 className="text-4xl md:text-5xl font-bold text-white leading-tight">
-              Innovative web development
+            Grow Your Brand
             </h1>
             <p className="text-lg text-slate-300 leading-relaxed">
-              At Abdul Hadi, we specialize in creating stunning and functional
-              websites tailored to your business needs. Based in Karachi, PK, our
-              expert team combines creativity with the latest technology to
-              deliver digital solutions that elevate your brand. Whether you're a
-              startup or an established business, we are dedicated to helping you
-              succeed online with our comprehensive web development services.
+            Let me share a bit about what I do. I’m based in Karachi, Pakistan, and I focus on creating beautiful and functional websites that fit your business needs. Whether it’s helping a startup get online or improving an established business’s digital presence, I combine creativity and the latest tools to deliver results. My goal is to build websites that help your brand grow and succeed online.
             </p>
             
             <motion.a

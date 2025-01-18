@@ -257,7 +257,7 @@ export default function Contact() {
                     <h4 className="text-white font-medium">Hours</h4>
                     <div className="space-y-1">
                       <div className="flex justify-between text-gray-300">
-                        <span>Monday - Friday</span>
+                        <span className='mr-3'>Monday - Friday</span>
                         <span>9:00am - 10:00pm</span>
                       </div>
                       <div className="flex justify-between text-gray-300">

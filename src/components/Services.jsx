@@ -11,32 +11,32 @@ const services = [
   {
     icon: 'Code',
     title: "Web Development",
-    description: "Custom websites tailored to your unique business needs, built with the latest technologies for optimal performance.",
+    description: "Custom websites made for your business, using the latest technology for top performance.",
   },
   {
     icon: 'ShoppingCart',
     title: "E-Commerce Solutions",
-    description: "Robust online stores that provide seamless shopping experiences and drive conversions.",
+    description: "Strong online stores that offer smooth shopping and boost sales.",
   },
   {
     icon: 'Search',
     title: "SEO Optimization",
-    description: "Improve your website's visibility in search engines and attract more organic traffic.",
+    description: "Boost your website’s visibility and bring it to the top in search to attract more visitors.",
   },
   {
     icon: 'Smartphone',
     title: "Mobile App Development",
-    description: "Native and cross-platform mobile applications that engage users and extend your digital reach.",
+    description: "Create user-friendly mobile app prototypes that bring your ideas to life and enhance the user experience.",
   },
   {
     icon: 'Palette',
     title: "UI/UX Design",
-    description: "Intuitive and visually appealing interfaces that enhance user engagement and satisfaction.",
+    description: "Easy-to-use and attractive interfaces that boost user engagement and satisfaction.",
   },
   {
     icon: 'Megaphone',
     title: "Digital Marketing",
-    description: "Comprehensive digital marketing strategies to boost your online presence and drive growth.",
+    description: "Complete digital marketing plans to improve your online presence and drive growth.",
   },
 ];
 
