@@ -236,12 +236,12 @@ export default function Contact() {
                 </div>
               </div>
 
-              <div className="flex items-start space-x-4">
+              {/* <div className="flex items-start space-x-4">
                 <Phone className="w-6 h-6 text-[#00ff66] mt-1" />
                 <div>
                   <p className="text-white">+92 300 123 4567</p>
                 </div>
-              </div>
+              </div> */}
 
               <div className="flex items-start space-x-4">
                 <MapPin className="w-6 h-6 text-[#00ff66] mt-1" />

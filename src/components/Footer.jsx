@@ -44,7 +44,7 @@ export default function Footer() {
             </nav>
           </div>
           {/* Contact Info */}
-          {/* <div>
+          <div>
             <h3 className="text-lg font-semibold mb-4 text-[#00FF7F]">Contact</h3>
             <div className="space-y-3 text-gray-300">
               <a href="mailto:abdulhadi.76543@gmail.com" className="flex items-center gap-2 hover:text-[#00FF7F]">
@@ -52,7 +52,7 @@ export default function Footer() {
               </a>
               <p className="flex items-center gap-2">Karachi, SD, Pakistan</p>
             </div>
-          </div> */}
+          </div>
 
           
 
