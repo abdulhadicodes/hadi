@@ -6,7 +6,7 @@ import { Quote, Star } from 'lucide-react';
 
 const testimonials = [
   {
-    quote: "Working with Abdul Hadi has been an exceptional experience. He is a highly skilled web developer with an impressive ability to bring ideas to life.",
+    quote: "Abdul is an exceptional professional to work with. His expertise and attention to detail were evident in his work, particularly in organizing and categorizing my products efficiently. He also optimized my website for SEO, improving its ranking on Google and enhancing its online visibility. I highly recommend his services.",
     name: "Justin Carter",
     title: "Entrepreneur, Aussworks"
   },
