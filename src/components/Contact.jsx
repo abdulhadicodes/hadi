@@ -277,19 +277,19 @@ export default function Contact() {
                 <h4 className="text-white font-medium mb-4">Connect with us</h4>
                 <div className="flex space-x-4">
                   <a
-                    href="#"
+                    href="https://facebook.com/theabdulhadi"
                     className="p-2 bg-[#001a0e] rounded-full text-[#00ff66] hover:bg-[#00ff66] hover:text-black transition-colors duration-300"
                   >
                     <Facebook className="w-5 h-5 " />
                   </a>
                   <a
-                    href="#"
+                    href="https://instagram.com/abdulhadicodes"
                     className="p-2 bg-[#001a0e] rounded-full text-[#00ff66] hover:bg-[#00ff66] hover:text-black transition-colors duration-300"
                   >
                     <Instagram className="w-5 h-5" />
                   </a>
                   <a
-                    href="#"
+                    href="https://www.linkedin.com/in/-abdulhadi-"
                     className="p-2 bg-[#001a0e] rounded-full text-[#00ff66] hover:bg-[#00ff66] hover:text-black transition-colors duration-300"
                   >
                     <Linkedin className="w-5 h-5" />
