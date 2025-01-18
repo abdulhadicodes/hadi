@@ -29,7 +29,7 @@ const testimonials = [
 
 const TestimonialCard = ({ quote, name, title }) => ( 
   <motion.div 
-    className='bg-[#0c0c0e] rounded-lg m-5 p-6 transition-all duration-300 hover:shadow-[0_0_30px_rgba(0,255,102,0.15)] hover:scale-105'
+    className='bg-[#0c0c0e] rounded-lg m-2 p-6 transition-all duration-300 hover:shadow-[0_0_30px_rgba(0,255,102,0.15)] hover:scale-105'
     whileHover={{ scale: 1.05 }}
     // transition={{ type: "spring", stiffness: 400, damping: 10 }}
   >
