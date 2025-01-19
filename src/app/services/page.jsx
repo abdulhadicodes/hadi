@@ -8,48 +8,48 @@ import Contact from "../../components/Contact.jsx";
 import Footer from "../../components/Footer.jsx";
 import Header from "../../components/Header.jsx";
 
-const services = [
-  {
-    icon: 'Code',
-    title: "Web Development",
-    description: "Custom websites tailored to your unique business needs, built with the latest technologies for optimal performance.",
-  },
-  {
-    icon: 'ShoppingCart',
-    title: "E-Commerce Solutions",
-    description: "Robust online stores that provide seamless shopping experiences and drive conversions.",
-  },
-  {
-    icon: 'Search',
-    title: "SEO Optimization",
-    description: "Improve your website's visibility in search engines and attract more organic traffic.",
-  },
-  {
-    icon: 'Smartphone',
-    title: "Mobile App Development",
-    description: "Native and cross-platform mobile applications that engage users and extend your digital reach.",
-  },
-  {
-    icon: 'Palette',
-    title: "UI/UX Design",
-    description: "Intuitive and visually appealing interfaces that enhance user engagement and satisfaction.",
-  },
-  {
-    icon: 'Megaphone',
-    title: "Digital Marketing",
-    description: "Comprehensive digital marketing strategies to boost your online presence and drive growth.",
-  },
+const services =[  {
+  icon: 'Code',
+  title: "Web Development",
+  description: "Custom websites made for your business, using the latest technology for top performance.",
+},
+{
+  icon: 'ShoppingCart',
+  title: "E-Commerce Solutions",
+  description: "Strong online stores that offer smooth shopping and boost sales.",
+},
+{
+  icon: 'Search',
+  title: "SEO Optimization",
+  description: "Boost your website’s visibility and bring it to the top in search to attract more visitors.",
+},
+{
+  icon: 'Smartphone',
+  title: "Mobile App Development",
+  description: "Create user-friendly mobile app prototypes that bring your ideas to life and enhance the user experience.",
+},
+{
+  icon: 'Palette',
+  title: "UI/UX Design",
+  description: "Easy-to-use and attractive interfaces that boost user engagement and satisfaction.",
+},
+{
+  icon: 'Megaphone',
+  title: "Digital Marketing",
+  description: "Complete digital marketing plans to improve your online presence and drive growth.",
+},
 ];
 
 const sdlcProcess = [
-  { icon: 'Lightbulb', title: "Planning", description: "We begin by understanding your requirements, defining project scope, and creating a comprehensive plan." },
-  { icon: 'FileSearch', title: "Analysis", description: "Our team conducts thorough research and analysis to identify the best solutions for your project." },
-  { icon: 'PenTool', title: "Design", description: "We create detailed designs and prototypes, ensuring a user-friendly and visually appealing solution." },
-  { icon: 'Cpu', title: "Implementation", description: "Our developers bring the designs to life, writing clean, efficient, and scalable code." },
-  { icon: 'TestTube', title: "Testing & Integration", description: "Rigorous testing and seamless integration ensure your project meets the highest quality standards." },
-  { icon: 'Rocket', title: "Deployment", description: "We carefully launch your project, ensuring a smooth transition to the live environment." },
-  { icon: 'RefreshCw', title: "Maintenance & Updates", description: "Our team provides ongoing support, updates, and improvements to keep your project running optimally." },
+  { icon: 'Lightbulb', title: "Planning", description: "We start by understanding your needs, defining the project, and making a clear plan." },
+  { icon: 'FileSearch', title: "Analysis", description: "We do research to find the best solutions for your project." },
+  { icon: 'PenTool', title: "Design", description: "We create simple, easy-to-use designs and prototypes that look great." },
+  { icon: 'Cpu', title: "Implementation", description: "Our developers turn the designs into working code that’s efficient and reliable." },
+  { icon: 'TestTube', title: "Testing & Integration", description: "We test everything and make sure it all works perfectly together." },
+  { icon: 'Rocket', title: "Deployment", description: "We launch your project smoothly, making sure everything runs well online." },
+  { icon: 'RefreshCw', title: "Maintenance & Updates", description: "We offer ongoing support, updates, and fixes to keep your project running smoothly." },
 ];
+
 
 
 export default function ServicesPage() {
