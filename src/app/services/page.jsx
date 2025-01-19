@@ -41,13 +41,13 @@ const services =[  {
 ];
 
 const sdlcProcess = [
-  { icon: 'Lightbulb', title: "Planning", description: "We start by understanding your needs, defining the project, and making a clear plan." },
-  { icon: 'FileSearch', title: "Analysis", description: "We do research to find the best solutions for your project." },
-  { icon: 'PenTool', title: "Design", description: "We create simple, easy-to-use designs and prototypes that look great." },
-  { icon: 'Cpu', title: "Implementation", description: "Our developers turn the designs into working code that’s efficient and reliable." },
-  { icon: 'TestTube', title: "Testing & Integration", description: "We test everything and make sure it all works perfectly together." },
-  { icon: 'Rocket', title: "Deployment", description: "We launch your project smoothly, making sure everything runs well online." },
-  { icon: 'RefreshCw', title: "Maintenance & Updates", description: "We offer ongoing support, updates, and fixes to keep your project running smoothly." },
+  { icon: 'Lightbulb', title: "Planning", description: "I start by understanding your needs, defining the project, and making a clear plan." },
+  { icon: 'FileSearch', title: "Analysis", description: "I do research to find the best solutions for your project." },
+  { icon: 'PenTool', title: "Design", description: "I create simple, easy-to-use designs and prototypes that look great." },
+  { icon: 'Cpu', title: "Implementation", description: "Then I turn the designs into working code that’s efficient and reliable." },
+  { icon: 'TestTube', title: "Testing & Integration", description: "I test everything and make sure it all works perfectly together." },
+  { icon: 'Rocket', title: "Deployment", description: "I launch your project smoothly, making sure everything runs well online." },
+  { icon: 'RefreshCw', title: "Maintenance & Updates", description: "I offer ongoing support, updates, and fixes to keep your project running smoothly." },
 ];
 
 
