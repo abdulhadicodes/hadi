@@ -49,3 +49,9 @@ html {
 ::-webkit-scrollbar-thumb:hover {
   background: #00CC52;
 } 
+
+.scrollable-element {
+  overflow-y: auto;
+  overflow-x: hidden; /* Or auto for horizontal scrolling */
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on mobile */
+}

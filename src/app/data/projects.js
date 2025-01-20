@@ -13,7 +13,7 @@ export const projects = [
     solutions: "Implemented lazy loading, optimized images, and created a custom Shopify theme with advanced filtering capabilities.",
     features: [
       {
-        name: "Rank #1 in Search",
+        name: "Rank #1 in Search.",
         description: "Rank #1 in search results with optimized SEO strategies to boost visibility and drive traffic.",
         imageUrl:"/aussoworksSeo.png"
       },
