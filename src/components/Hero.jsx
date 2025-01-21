@@ -3,7 +3,7 @@ import heroImg from '../../public/image.jpg';
 
 function Hero() {
   return (
-    <header className="relative overflow-hidden h-[90vh] min-h-screen min-w-screen">
+    <header className="relative overflow-hidden h-[90vh] min-w-screen">
     <div
             className="absolute inset-0 bg-cover bg-center bg-no-repeat pb-10"
             style={{
