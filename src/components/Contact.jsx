@@ -83,7 +83,7 @@ export default function Contact() {
   }
 
   return (
-    <div className="min-h-screen bg-[#001a0e] ">
+    <div className="min-h-screen bg-[#001a0e] p-5">
       <div>
         <div className="grid md:grid-cols-2 gap-8">
           {/* Form Section */}
@@ -91,7 +91,7 @@ export default function Contact() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
-            className="bg-[#002713] p-8 rounded-lg shadow-lg border border-[#00ff66]/10"
+            className="bg-[#002713] p-8  shadow-lg border border-[#00ff66]/10"
           >
             <div className="mb-8">
               <h3 className="text-[#00ff66] text-sm font-medium mb-2">Get in Touch</h3>
@@ -224,7 +224,7 @@ export default function Contact() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="bg-[#002713] p-8 rounded-lg shadow-lg border border-[#00ff66]/10"
+            className="bg-[#002713] p-8  shadow-lg border border-[#00ff66]/10"
           >
             <h3 className="text-[#00ff66] text-2xl font-medium mb-6">Get in touch</h3>
 

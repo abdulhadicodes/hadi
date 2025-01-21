@@ -43,8 +43,8 @@ const services = [
 
 export default function ServicesSection() {
   return (
-    <section className="w-full bg-[#04140b] py-16 md:py-24">
-      <div className="container px-4 md:px-6">
+    <section className="w-full bg-[#04140b] py-16 md:py-24 flex flex-col items-center">
+      <div className="container px-4 md:px-6 flex flex-col items-center">
         <div className="text-center space-y-4 mb-12">
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -64,8 +64,8 @@ export default function ServicesSection() {
           </motion.h2>
         </div>
 
-        <section className=" py-20 px-4 sm:px-6 lg:px-8 -mt-14">
-        <div className="max-w-7xl mx-auto">
+        <section className=" py-20 px-4 sm:px-6 lg:px-8 -mt-14 flex flex-col items-center">
+        <div className="max-w-7xl mx-auto ">
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {services.map((service, index) => (

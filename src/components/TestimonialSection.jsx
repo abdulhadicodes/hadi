@@ -34,7 +34,7 @@ const TestimonialCard = ({ quote, name, title }) => (
     // transition={{ type: "spring", stiffness: 400, damping: 10 }}
   >
     <Quote className="h-8 w-8 text-[#00ff66] mb-4" />
-    <blockquote className="text-lg italic mb-4 text-slate-200">
+    <blockquote className="text-[1.1rem] italic mb-4 text-slate-200">
       {quote}
     </blockquote>
     <div className='flex items-center'>
@@ -49,7 +49,7 @@ const TestimonialCard = ({ quote, name, title }) => (
 
 export default function TestimonialSection() {
   return (
-    <section className='flex flex-col justify-center items-center pt-8 pb-8 bg-[#0a2816] rounded-lg mb-10 mx-4 md:mx-18 lg:mx-28 pl-10 pr-10'>
+    <section className='flex flex-col justify-center items-center pt-8 pb-8 bg-[#0a2816] mb-10 pl-5 pr-5'>
       <motion.h2 
         className='text-4xl font-bold text-white mb-8'
         initial={{ opacity: 0, y: 20 }}
