@@ -56,7 +56,7 @@ export default function TestimonialSection() {
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
       >
-        What Our Clients Say
+        What My Clients Say
       </motion.h2>
       <div className='grid grid-cols-1 gap-6 lg:grid-cols-2 w-full'>
         {testimonials.map((testimonial, index) => (
