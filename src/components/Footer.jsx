@@ -43,16 +43,7 @@ export default function Footer() {
               ))}
             </nav>
           </div>
-          {/* Contact Info */}
-          <div>
-            <h3 className="text-lg font-semibold mb-4 text-[#00FF7F]">Contact</h3>
-            <div className="space-y-3 text-gray-300">
-              <a href="mailto:abdulhadi.76543@gmail.com" className="flex items-center gap-2 hover:text-[#00FF7F]">
-                abdulhadi.76543@gmail.com
-              </a>
-              <p className="flex items-center gap-2">Karachi, SD, Pakistan</p>
-            </div>
-          </div>
+          
 
           
 
@@ -79,7 +70,16 @@ export default function Footer() {
             </div>
           </div>
         </div>
-
+{/* Contact Info */}
+<div>
+            <h3 className="text-lg font-semibold mb-4 text-[#00FF7F]">Contact</h3>
+            <div className="space-y-3 text-gray-300">
+              <a href="mailto:abdulhadi.76543@gmail.com" className="flex items-center gap-2 hover:text-[#00FF7F]">
+                abdulhadi.76543@gmail.com
+              </a>
+              <p className="flex items-center gap-2">Karachi, SD, Pakistan</p>
+            </div>
+          </div>
         {/* Copyright */}
         <div className="mt-12 pt-8 border-t border-gray-800 text-center">
           <p className="text-gray-400 text-sm">© 2024 AbdulHadi. All Rights Reserved.</p>
