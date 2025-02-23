@@ -23,11 +23,11 @@ const services = [
     title: "SEO Optimization",
     description: "Boost your website’s visibility and bring it to the top in search to attract more visitors.",
   },
-  {
-    icon: 'Smartphone',
-    title: "Mobile App Development",
-    description: "Create user-friendly mobile app prototypes that bring your ideas to life and enhance the user experience.",
-  },
+  // {
+  //   icon: 'Smartphone',
+  //   title: "Mobile App Development",
+  //   description: "Create user-friendly mobile app prototypes that bring your ideas to life and enhance the user experience.",
+  // },
   {
     icon: 'Palette',
     title: "UI/UX Design",
