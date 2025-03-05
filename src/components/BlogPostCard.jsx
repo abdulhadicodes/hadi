@@ -5,12 +5,14 @@ import { motion } from 'framer-motion';
 
 const BlogPostCard = ({ title, excerpt, date, author, imageUrl, slug }) => {
   return (
+    <Link href={`/blog/${slug}`} passHref>
+
     <motion.div 
-      className="bg-[#04140b] rounded-sm overflow-hidden shadow-lg"
+      className="bg-[#04140b] rounded-xl overflow-hidden shadow-lg"
       whileHover={{ scale: 1.03 }}
       transition={{ duration: 0.2 }}
     >
-      <div className="relative h-48">
+      <div className="relative h-72">
         <Image
           src={imageUrl}
           alt={title}
@@ -33,6 +35,7 @@ const BlogPostCard = ({ title, excerpt, date, author, imageUrl, slug }) => {
         </Link>
       </div>
     </motion.div>
+    </Link>
   );
 };
 

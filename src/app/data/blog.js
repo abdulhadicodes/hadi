@@ -8,7 +8,7 @@ export const blogs = [
     "date": "2025-01-12",
     "author": "Abdul Hadi",
     "readTime": "5 min read",
-    "imageUrl": "/placeholder.svg?height=400&width=600",
+    "imageUrl": "/abdulhadi.png",
     "excerpt": "Discover the journey of Abdul Hadi, a freelance web developer passionate about creating modern websites."
   },
   
@@ -20,7 +20,7 @@ export const blogs = [
     "date": "2025-01-12",
   "author": "Abdul Hadi",
   "readTime": "6 min read",
-  "imageUrl": "/placeholder.svg?height=400&width=600",
+  "imageUrl": "/whywebsite.png",
   "excerpt": "Discover why every business needs a website in 2025 and how it can help you stay ahead in the digital world."
   },
   {
@@ -30,7 +30,7 @@ export const blogs = [
     "date": "2025-01-13",
     "author": "Abdul Hadi",
     "readTime": "7 min read",
-    "imageUrl": "/seo-optimization-image.svg?height=400&width=600",
+    "imageUrl": "/seoIMAGE.png",
     "excerpt": "Learn how to optimize your website for SEO in 2025 with essential tips and strategies to improve your ranking on Google and attract more traffic."
   }
   
